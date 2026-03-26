@@ -7,7 +7,7 @@ This is a self-initiated portfolio project created to practice SQL, data cleanin
 The goal of this project is to analyze retail sales data and answer business questions related to revenue, customer value, product performance, cancellations, and sales trends over time.
 
 ## Dataset
-This project uses the UCI Online Retail dataset, a real-world transaction dataset from a UK-based non-store online retailer.
+This project uses the UCI Online Retail dataset, a real-world transaction dataset from a UK-based non-store online retailer. https://archive.ics.uci.edu/dataset/352/online%2Bretail? 
 
 ## Tools Used
 - Python
